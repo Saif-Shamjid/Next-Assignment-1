@@ -61,11 +61,10 @@ Are those reasons gonna satisfy you? I don't Know... don't guess me wrong, there
 
 
 
-This topic is one that many say 
 
-> *“I bet I’ve seen these types So many Times but never really *got* them.”*
+> *“I’ve seen these types So many Times but never really *got* them.”*
 
-Well, **we’re going to solve the mystery** — **what is the deal with these types?**
+Well, **we’re going to solve the mystery** **what is the deal with these types?**
 
 ---
 
@@ -75,7 +74,7 @@ What exactly do **`any`**, **`unknown`**, and **`never`** mean? These types have
 
 ---
 
-### **`any` - The Wild Card**
+### **`any`: The Wild Card**
 
 > *“What happens if you don't care about types and want to do whatever you want?”*
 
@@ -92,7 +91,7 @@ var1 = true; // you assign whatever you want to
 so that's mean **`any`** completely disables type checking. This gives you maximum flexibility but you lose the power of typescript. This can be dangerous because it allows you to make mistakes without TypeScript warning you.
 
 **When to use it?**
-Use **`any`** when you’re dealing with unknown values (like data coming from an API) where you’re not sure what type you’ll get. But **beware** — use it wisely, because if you start using `any` everywhere, TypeScript becomes JavaScript :) .
+Use **`any`** when you’re dealing with unknown values (like data coming from an API) where you’re not sure what type you’ll get. But **beware** use it wisely, because if you start using `any` everywhere, TypeScript becomes JavaScript :) .
 
 ---
 
@@ -121,7 +120,7 @@ Use **`unknown`** when you're dealing with values that could be of any type, but
 
 ---
 
-### **`never` - The Black Hole of Types**
+### **`never` : The Black Hole of Types** (kiding)
 
 > *“What happens when you don’t want a function to return anything?”*
 
