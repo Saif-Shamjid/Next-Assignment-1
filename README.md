@@ -1,6 +1,6 @@
 # { Null Is Not != an Option } BLOGS
 
-Welcome to **Null Is Not an Option** , a collection of deep dive blogs on programming topics I explore and learn along the way.
+Welcome to **Null Is Not an Option** , a collection of deep dive blogs on programming topics I explore and learn along the way. 
 
 
 Today we will start a journey through which we will answer a saying which we often say in Bangla:
