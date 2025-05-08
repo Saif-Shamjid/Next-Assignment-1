@@ -237,4 +237,4 @@ In the end, they’re both great tools. Just use what fits best for your work!
 
 # the END
 
-pewww,, So finally it's the End. Thank you everyone, thanks for your attention , I'm exhausted right now I bet you are too. IT's took a long time for me to wrote down everything after all it was my first Blog. I'm not a professional write so forgive me if there is some grammatical or spelling mistakes. BEST OF LUCK ALL 
+pewww,, So finally it's the End. Thank you everyone, thanks for your attention , I'm exhausted right now I bet you are too. IT's took a long time for me to wrote down everything after all it was my first Blog. I'm not a professional writer so forgive me if there is some grammatical or spelling mistakes. BEST OF LUCK ALL 
